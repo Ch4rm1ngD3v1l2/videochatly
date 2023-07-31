@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BkKVLGa4PMGfTccpllm6fzA8PQkL697LQt/1Gg5bSRBOQV4vvJFmoYve8he+JVWC5L2CUOCE+wzxvZXwZ85hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samad\\Desktop\\coding\\videochatly\\videochatlyb\\videochatlyb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Samad\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Samad\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

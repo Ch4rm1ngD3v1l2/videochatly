@@ -1,0 +1,34 @@
+.container {
+  display: grid;
+  align-items: center;
+  height: 100vh;
+  padding: 24px;
+}
+
+.container__wrapper {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 16px;
+}
+
+.video {
+  height: 100%;
+  width: 100%;
+  border: 2px solid white;
+}
+
+@media (max-width: 600px) {
+}
+
+@media (min-width: 600px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}

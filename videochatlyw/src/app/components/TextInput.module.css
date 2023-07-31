@@ -1,0 +1,29 @@
+.text-input {
+  height: 50px;
+}
+
+.text-input input {
+  background: none;
+  height: 100%;
+  width: 100%;
+  border: 2px solid white;
+  border-radius: 8px;
+  outline: none;
+  color: white;
+  padding: 0 16px;
+}
+
+@media (max-width: 600px) {
+}
+
+@media (min-width: 600px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}

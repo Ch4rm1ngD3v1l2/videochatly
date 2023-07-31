@@ -1,0 +1,38 @@
+.container {
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  height: 100vh;
+  padding: 24px;
+  text-align: center;
+}
+
+.container__wrapper {
+  display: grid;
+  row-gap: 48px;
+  max-width: 400px;
+}
+
+.greeting {
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.description {
+  font-weight: 500;
+}
+
+@media (max-width: 600px) {
+}
+
+@media (min-width: 600px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}

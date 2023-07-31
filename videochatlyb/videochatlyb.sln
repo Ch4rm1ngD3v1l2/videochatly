@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videochatlyb", "videochatlyb.csproj", "{FD8E835F-CD72-4086-BD3E-B350ED3E5287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8E835F-CD72-4086-BD3E-B350ED3E5287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8E835F-CD72-4086-BD3E-B350ED3E5287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8E835F-CD72-4086-BD3E-B350ED3E5287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8E835F-CD72-4086-BD3E-B350ED3E5287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCAC6093-93BB-4E65-B5FC-BAD342B0DD47}
+	EndGlobalSection
+EndGlobal
