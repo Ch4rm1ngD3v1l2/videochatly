@@ -18,7 +18,7 @@ export default function Room({ searchParams }) {
     // FINISH - PC
 
     // START - SignalR
-    const connection = new HubConnectionBuilder().withUrl("https://silent-heads-smile.loca.lt/chathub", { withCredentials: false }).build();
+    const connection = new HubConnectionBuilder().withUrl("https://warm-colts-start.loca.lt/chathub", { withCredentials: false }).build();
 
     connection.on("ReceiveMessage", (message) => {
       switch (message["type"]) {
